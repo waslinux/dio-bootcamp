@@ -7,6 +7,8 @@ Cursos do Bootcamp
 
 #### 03 - Introdução ao GitHub e comandos essenciais para trabalhar em equipe
 
+https://github.com/waslinux/projeto-curso-git
+
 #### 11 - Programação para internet com JavaScript 
 
 https://github.com/waslinux/dio-indroducaojavascript    
