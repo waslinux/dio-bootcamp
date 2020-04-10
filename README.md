@@ -3,6 +3,10 @@
 
 Cursos do Bootcamp
 
+### 01 - Lógica de programação essencial
+
+https://github.com/waslinux/logicaprogramacao
+
 #### 02 - Introdução ao Git e Controle de Versões
 
 #### 03 - Introdução ao GitHub e comandos essenciais para trabalhar em equipe
