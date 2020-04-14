@@ -17,6 +17,8 @@ https://github.com/waslinux/projeto-curso-git
 
 https://github.com/waslinux/dio-arquiteturasistemas 
 
+#### 05 - Expert Lesson: DDD e arquitetura de software
+
 #### 11 - Programação para internet com JavaScript 
 
 https://github.com/waslinux/dio-indroducaojavascript    
