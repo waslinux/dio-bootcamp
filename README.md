@@ -19,6 +19,10 @@ https://github.com/waslinux/dio-arquiteturasistemas
 
 #### 05 - Expert Lesson: DDD e arquitetura de software 
 
+#### 06 - Programação para internet com HTML5 e CSS3
+
+https://github.com/waslinux/aula_html5_css3
+
 #### 11 - Programação para internet com JavaScript 
 
 https://github.com/waslinux/dio-indroducaojavascript    
