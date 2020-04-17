@@ -27,6 +27,10 @@ https://github.com/waslinux/aula_html5_css3
 
 https://github.com/waslinux/aula_bootstrap
 
+#### 08 - Arquitetura de Sistemas Avançado
+
+https://github.com/waslinux/arquitetura_sistemas
+
 #### 11 - Programação para internet com JavaScript 
 
 https://github.com/waslinux/dio-indroducaojavascript    
