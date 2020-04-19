@@ -33,6 +33,8 @@ https://github.com/waslinux/arquitetura_sistemas
 
 #### 09 - Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis
 
+#### 10 - Projetos ágeis com SCRUM
+
 #### 11 - Programação para internet com JavaScript 
 
 https://github.com/waslinux/dio-indroducaojavascript    
