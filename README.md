@@ -43,3 +43,6 @@ https://github.com/waslinux/dio-indroducaojavascript
 
 https://github.com/waslinux/game_cobrinha
 
+#### 13 - Desafio prático: Performance Web Utilizando JavaScript
+
+
