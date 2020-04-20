@@ -39,3 +39,5 @@ https://github.com/waslinux/arquitetura_sistemas
 
 https://github.com/waslinux/dio-indroducaojavascript    
 
+#### 12 Desafio prático: Recriando o jogo da cobrinha com JavaScript
+
