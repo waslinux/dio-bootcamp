@@ -45,4 +45,8 @@ https://github.com/waslinux/game_cobrinha
 
 #### 13 - Desafio prático: Performance Web Utilizando JavaScript
 
+#### 14 - JavaScript ES6 essencial
+
+
+
 
