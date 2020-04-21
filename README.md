@@ -47,6 +47,10 @@ https://github.com/waslinux/game_cobrinha
 
 #### 14 - JavaScript ES6 essencial
 
+#### 15 - Desafio prático Desmistificando map, filter e reduce
+
+https://github.com/waslinux/desmistificandojs
+
 
 
 
