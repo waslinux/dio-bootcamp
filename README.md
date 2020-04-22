@@ -51,6 +51,8 @@ https://github.com/waslinux/game_cobrinha
 
 https://github.com/waslinux/desmistificandojs
 
+#### 16 - Desafio prático: Entendendo Promises de uma vez por todas
+
 
 
 
