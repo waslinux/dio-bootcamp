@@ -53,6 +53,8 @@ https://github.com/waslinux/desmistificandojs
 
 #### 16 - Desafio prático: Entendendo Promises de uma vez por todas
 
+https://github.com/waslinux/promisesjs
+
 
 
 
