@@ -57,6 +57,9 @@ https://github.com/waslinux/promisesjs
 
 #### 17 - Desafio prático Como funciona o asyncawait
 
+#### 18 - Desenvolvimento avançado com JavaScript ES6
+
+
 
 
 
