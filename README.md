@@ -59,7 +59,10 @@ https://github.com/waslinux/promisesjs
 
 #### 18 - Desenvolvimento avançado com JavaScript ES6
 
-https://github.com/waslinux/cursojsEC6
+Comandos executados: https://github.com/waslinux/cursojsEC6
+
+Ferramenta Mocha: https://github.com/waslinux/mochatester
+
 
 
 
