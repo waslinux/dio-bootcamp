@@ -63,6 +63,8 @@ Comandos executados: https://github.com/waslinux/cursojsEC6
 
 Ferramenta Mocha: https://github.com/waslinux/mochatester
 
+19 - Desafio prático: TDD com JavaScript
+
 
 
 
