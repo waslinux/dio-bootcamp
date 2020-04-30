@@ -69,9 +69,9 @@ Ferramenta Mocha: https://github.com/waslinux/mochatester
 
 https://github.com/waslinux/introreact
 
-#### 21 Desafio prático: Praticando JavaScript com React
+#### 21 - Desafio prático: Praticando JavaScript com React
 
-#### 22 Desenvolvimento de aplicações para internet com ReactJS 
+#### 22 - Desenvolvimento de aplicações para internet com ReactJS 
 
 
 
