@@ -69,4 +69,6 @@ Ferramenta Mocha: https://github.com/waslinux/mochatester
 
 https://github.com/waslinux/introreact
 
+#### Desafio prático: Praticando JavaScript com React
+
 
