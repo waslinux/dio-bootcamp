@@ -77,6 +77,7 @@ https://github.com/waslinux/introreact
 
 #### 24 - Desafio prático: Como gerenciar o estado das aplicações com Redux
 
+https://github.com/waslinux/rredux 
 
 
 
