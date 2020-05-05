@@ -73,6 +73,10 @@ https://github.com/waslinux/introreact
 
 #### 22 - Desenvolvimento de aplicações para internet com Reactjs
 
+#### 23 - Desafio prático: React.js com TypeScript
+
+
+
 
 
 
