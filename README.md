@@ -75,6 +75,7 @@ https://github.com/waslinux/introreact
 
 #### 23 - Desafio prático: React.js com TypeScript
 
+#### 24 - Desafio prático: Como gerenciar o estado das aplicações com Redux
 
 
 
