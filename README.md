@@ -1,6 +1,8 @@
 ﻿# bootcamp Desenvolvedor Front-end ReactJS
 # Digital Innovation One
 
+![Screenshot](https://raw.githubusercontent.com/waslinux/dio-bootcamp/master/certificados/Certificado%20Desenvolvedor%20Front-end%20ReactJS.png)
+
 Cursos do Bootcamp
 
 #### 01 - Lógica de programação essencial
