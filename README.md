@@ -79,6 +79,7 @@ https://github.com/waslinux/introreact
 
 https://github.com/waslinux/rredux 
 
+#### 25 - Práticas avançadas em projetos com ReactJS
 
-
+https://github.com/waslinux/advanced-reactjs-dio
 
